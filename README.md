@@ -8,20 +8,20 @@
     alt="sho-aib1" /> 
   </p>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+and+Electronics+Engineering+Student;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electrical+and+Electronics+Engineer;Aspiring+Developer;Always+learning+new+things&center=true&width=500&height=50"></a>
 
 
 <br>
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
- 🌱  I’m currently learning Data Structure and algorithm and web development
+<h4>
+ 🌱  I’m currently learning Data Structure and algorithm and web development 
 
  📫 How to reach me **mshoaib03233@gmail.com**
 
 ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-
+</h4>
 <br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
