@@ -1,6 +1,6 @@
  
  <h1 align="center">Hi 👋, I'm Mohd Shoaib</h1>
-<h3 align="center">Electrical and Electronics Engineer but Intrested in Coding.  🌟.</h3>
+<h3 align="center">Software Engineer @HCLTech | Electrical and Electronics Engineer🌟.</h3>
 
 <br>
 
